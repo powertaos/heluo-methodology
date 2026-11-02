@@ -31,3 +31,8 @@
 ## 可选
 
 - [授权说明](https://github.com/powertaos/heluo-methodology/blob/main/LICENSE): CC BY-SA 4.0，引用须注明"河洛转型军师（逍遥哥）"并附链接
+
+## 联系方式
+
+- 邮箱：mgz_taos@sina.com（合作 / 咨询 / 授权）
+- 公众号后台留言：河洛数智化转型方法论
